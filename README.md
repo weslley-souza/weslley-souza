@@ -1,7 +1,7 @@
 ## Fala Pessoal! Espero que estejam bem. Eu sou o Weslley!  
 
 - 💻 Estou Cursando 2° período de Análise e desenvolvimento de Sistemas
-- 📚 Estudando RobotFramework, API REST e JavaScript
+- 📚 Estudando Cypress, API REST e JavaScript
 ##
 <div align="center">
   <a href="https://github.com/weslley-souza">
