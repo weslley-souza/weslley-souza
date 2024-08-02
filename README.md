@@ -39,7 +39,7 @@ Meu objetivo para o ano de 2024 é alcançar o tão sonhado 1° emprego como Ana
                  
           
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Weslley-selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           
   <img align="center" alt="Weslley-selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
           
