@@ -15,11 +15,12 @@ Meu objetivo para o ano de 2024 é alcançar o tão sonhado 1° emprego como Ana
 
 ##
 
-<div align="center">
-  <a href="https://github.com/weslley-souza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
+<div>
+<a href="https://github.com/weslley-souza">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley-souza&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ## Portfolio:
 - [Robot Framework - Projeto_teste_web](https://github.com/weslley-souza/projeto_teste_web):
