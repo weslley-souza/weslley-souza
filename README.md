@@ -1,4 +1,79 @@
-## Fala Pessoal, Eu sou o Weslley!
+# Olá, eu sou o [Seu Nome] 👋
+
+## Sobre Mim
+Sou um desenvolvedor apaixonado por [Sua Área de Interesse]. Atualmente, estou focado em [Seu Foco Atual].
+
+## 🚀 Tecnologias & Ferramentas
+- JavaScript
+- Node.js
+- React
+- Git & GitHub
+
+## 🌱 Atualmente Estudando
+- Angular
+- Cypress
+- Testes de Software
+
+## 💼 Projetos
+- [Projeto 1](link_do_projeto): Uma breve descrição do projeto.
+- [Projeto 2](link_do_projeto): Uma breve descrição do projeto.
+
+## 🤝 Contribuições
+- [Contribuição 1](link_da_contribuição): Uma breve descrição da contribuição.
+- [Contribuição 2](link_da_contribuição): Uma breve descrição da contribuição.
+
+## 📫 Como me Encontrar
+- Email: seuemail@example.com
+- LinkedIn: [Seu LinkedIn](link_do_linkedin)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--## Fala Pessoal, Eu sou o Weslley!
 
 Olá! Me-chamo Weslley, tenho 28 anos, e desde o ano de 2022, iniciei minha jornada no fascinante mundo da tecnologia. Minha paixão por resolver problemas e explorar novas possibilidades me levou a buscar aprimorar minhas habilidades como analista de testes.
 
