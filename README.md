@@ -1,6 +1,6 @@
 👋 Olá, sou o Weslley.
 
-QA/Teste com foco em testes manuais, fundamentos de automação e controle de qualidade de software.
+QA/Teste junior com foco em testes manuais, fundamentos de automação e controle de qualidade de software.
 
 Estou construindo uma base sólida com projetos práticos, aprendizados contínuos e ferramentas como Robot Framework, Postman, Jira e Git. 
 
