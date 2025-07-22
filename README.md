@@ -1,11 +1,13 @@
-## Fala Pessoal, Eu sou o Weslley!
+👋 Olá, sou o Weslley.
 
-Olá! Me-chamo Weslley, tenho 28 anos, e desde o ano de 2022, iniciei minha jornada no fascinante mundo da tecnologia. Minha paixão por resolver problemas e explorar novas possibilidades me levou a buscar aprimorar minhas habilidades como analista de testes.
+Atualmente em transição para a área de Quality Assurance, com foco em testes manuais, fundamentos de automação e controle de qualidade de software.
 
-Meu objetivo para o ano de 2024 é alcançar o tão sonhado 1° emprego como Analista de Teste JR, e estou empolgado para compartilhar minha jornada de aprendizado e crescimento neste espaço dinâmico.
+Estou construindo uma base sólida com projetos práticos, aprendizados contínuos e ferramentas como Robot Framework, Postman, Jira e Git. 
 
+Minha jornada é guiada por organização, atenção aos detalhes e compromisso com a melhoria contínua. Busco minha primeira oportunidade como Analista de Testes Júnior, e este espaço reflete meu desenvolvimento técnico e profissional.
 
-- 💻 Estou cursando o 4° período em Análise e Desenvolvimento de Sistemas.
+📌 Estudante de Análise e Desenvolvimento de Sistemas (5º período).  
+📍 Brasil | 💼 Aberto a oportunidades
 
 
 <div>
