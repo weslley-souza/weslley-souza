@@ -10,7 +10,6 @@ Meu objetivo para o ano de 2024 é alcançar o tão sonhado 1° emprego como Ana
 
 <div>
   <a href="https://www.instagram.com/weslley.s0uza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.dio.me/users/wesly_qa/" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70"></a>
   <a href="https://www.linkedin.com/in/weslley-s-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
