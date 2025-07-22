@@ -34,7 +34,6 @@ Meu objetivo para o ano de 2024 é alcançar o tão sonhado 1° emprego como Ana
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Weslley-robotframework" height="40" width="50" src="https://www.svgrepo.com/show/374049/robotframework.svg">
   <img align="center" alt="Weslley-Jira" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img align="center" alt="Weslley-selenium" height="40" width="50" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png">
   <img align="center" alt="Weslley-selenium" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Weslley-selenium" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Weslley-selenium" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
