@@ -25,7 +25,7 @@ Minha jornada é guiada por organização, atenção aos detalhes e compromisso 
 
 
 ## Portfolio:
-- [Barbearia - Projeto_Web](https://github.com/BaiConNet/page-barber-shop):
+- [Barbearia - Projeto_Web](https://github.com/BaiConNet/page-barber-shop) | [Site](https://modern-man.netlify.app/)
 - [Robot Framework - Projeto_teste_web](https://github.com/weslley-souza/projeto_teste_web):
 - [Robot Framework - Projeto_teste_mobile](https://github.com/weslley-souza/Projeto_Teste_Mobile):
 
