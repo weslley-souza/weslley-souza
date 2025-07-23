@@ -1,10 +1,12 @@
 👋 Olá, sou o Weslley.
 
-QA/Teste junior com foco em testes manuais, fundamentos de automação e controle de qualidade de software.
-
-Estou construindo uma base sólida com projetos práticos, aprendizados contínuos e ferramentas como Robot Framework, Postman, Jira e Git. 
-
-Minha jornada é guiada por organização, atenção aos detalhes e compromisso com a melhoria contínua. Busco minha primeira oportunidade como Analista de Testes Júnior, e este espaço reflete meu desenvolvimento técnico e profissional.
+ - Experiência com testes manuais, criação de cenários, execução, documentação e reporte de bugs. 
+ - Conhecimento em técnicas de teste, níveis e tipos (caixa preta, regressão, exploratório). 
+ - Automação com Robot Framework, bibliotecas Selenium e Appium. 
+ - Testes de API utilizando Postman e Swagger. 
+ - Familiaridade com ferramentas de gestão como Jira. 
+ - Entendimento de fluxo de release, checklist de entrega e bugs críticos. 
+ - Uso de Git e GitHub para versionamento de scripts e evidências.
 
 📌 Estudante de Análise e Desenvolvimento de Sistemas (5º período).  
 📍 Brasil | 💼 Aberto a oportunidades
